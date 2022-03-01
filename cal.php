@@ -24,8 +24,8 @@ switch($o)
 	<tr>
 		<td>
 			<p align='center' style= 'font-family:arial'>Conversion of values between celsius and fahrenheit and vice-versa.</p>
-			<h3 align='center' style= 'font-family:courier'>(C->F) Celsius to Fahrenheit Conversion</h3>
-			<h3 align='center' style= 'font-family:courier'>(F->C) Fahrenheit to Celsius Conversion</h3>
+			<h3 align='center' style= 'font-family:courier'>(C->F) Celsius->Fahrenheit Conversion</h3>
+			<h3 align='center' style= 'font-family:courier'>(F->C) Fahrenheit->Celsius Conversion</h3>
 			<h4 align='center' style= 'font-family:arial'>Reset button to reset the values</h4>
 		</td>
 	</tr>
