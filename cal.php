@@ -13,6 +13,7 @@ switch($o)
 	case "F->C":
 		$m=($n-32)*(5/9);
 		break;
+
 }
 
 ?>
